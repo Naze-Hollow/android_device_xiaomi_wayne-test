@@ -1,0 +1,5 @@
+runtime_resource_overlay {
+    name: "wayneApertureOverlay",
+    theme: "wayneApertureOverlay",
+    product_specific: true,
+}
